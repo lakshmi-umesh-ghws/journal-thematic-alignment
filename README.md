@@ -221,11 +221,10 @@ report/final_report_draft.md
 report/project_summary.md
 ```
 
-## Notes on Reproducibility
-
-The project is organized into reusable Python modules inside `src/journal_alignment/`. The scripts in the `scripts/` folder call these modules and reproduce the main stages of the analysis.
-
-The raw and processed data folders may be excluded from GitHub if the files are too large. In that case, the pipeline can be reproduced by running the data collection and preprocessing scripts again, depending on the availability of metadata from Semantic Scholar.
+## Notes on Reproducibility  
+The project is organized into reusable Python modules inside `src/journal_alignment/`. The scripts in the `scripts/` folder call these modules and reproduce the main stages of the analysis.  
+The repository includes the cleaned dataset file `data/processed/papers_clean.csv`, the journal scope files, result tables, and figures needed to reproduce the main analysis. The raw data folder is not included because it is larger and can be recreated using the data collection scripts, depending on the availability of metadata from Semantic Scholar.  
+Large generated model files, such as the saved BERTopic model, are not included in the repository. However, the topic modeling outputs are provided as CSV files, and the model can be recreated by running the topic modeling script.
 
 ## AI Usage Disclaimer
 
