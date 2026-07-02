@@ -1,0 +1,16 @@
+project:
+  title: "Measuring Thematic Alignment and Drift in Artificial Intelligence Journals"
+  start_year: 2015
+  end_year: 2025
+
+journals:
+  - name: "Expert Systems with Applications"
+    short_name: "eswa"
+  - name: "Knowledge-Based Systems"
+    short_name: "kbs"
+  #- name: "Artificial Intelligence"
+   # short_name: "aij"
+
+semantic_scholar:
+  api_key: null
+  fields: "paperId,title,abstract,year,publicationDate,venue,journal,externalIds,url,citationCount,fieldsOfStudy"
