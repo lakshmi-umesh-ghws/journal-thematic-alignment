@@ -69,9 +69,11 @@ journal-thematic-alignment/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── raw/
 │   ├── processed/
+│       └── papers_clean.csv
 │   └── scopes/
+│       ├── eswa_scope.txt
+│       └── kbs_scope.txt
 ├── report/
 │   ├── final_report_draft.md
 │   └── project_summary.md
@@ -231,7 +233,7 @@ Parts of this project were developed with the assistance of OpenAI’s ChatGPT(G
 
 ## Author
 
-Lakshmi Umesh
-Natural Language Processing
-University of Milan
+Lakshmi Umesh  
+Natural Language Processing  
+University of Milan  
 2026
