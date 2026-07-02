@@ -1,0 +1,10 @@
+topic_id,topic_label,count,mean_alignment,median_alignment,example_title_1,manual_topic_label,interpretation_notes
+8,8_process_event_systems_software,65,0.2588143591410838,0.2430830746889114,Knowledge configuration model for fast derivation design of electronic equipment and its implementation,,
+4,4_decision_fuzzy_decision making_making,324,0.1951403953422458,0.190394639968872,A scenario-based modeling method for controlling ECM performance,,
+5,5_mining_data_rough_attribute,138,0.1608924744785695,0.1566217094659805,Verify and measure the quality of rule based machine leaning,,
+1,1_text_knowledge_model_sentiment,655,0.1318784662373079,0.1232785433530807,Capturing and Anticipating User Intents in Data Analytics via Knowledge Graphs,,
+3,3_recommendation_network_users_user,533,0.1268322395368725,0.1237669736146926,The user-knowledge crowdsourcing task allocation integrated decision model and genetic matrix factorization algorithm,,
+6,6_clustering_clusters_cluster_algorithm,82,0.1102446758574465,0.1069753356277942,Optimized Multi-Algorithm Voting: Increasing objectivity in clustering,,
+0,0_data_proposed_based_model,2195,0.0888777355387687,0.0843220874667167,Machining sensor data management for operation-level predictive model,,
+2,2_algorithm_optimization_problems_problem,581,0.0833014886379049,0.0781036764383316,A new hierarchical multi group particle swarm optimization with different task allocations inspired by holonic multi agent systems,,
+7,7_privacy_data_federated_preserving,68,0.0827249695601708,0.080379445105791,Towards Automated Homomorphic Encryption Parameter Selection with Fuzzy Logic and Linear Programming,,

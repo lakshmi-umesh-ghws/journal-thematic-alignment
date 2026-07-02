@@ -1,0 +1,2 @@
+journal_a,journal_b,n_a,n_b,mean_a,mean_b,median_a,median_b,mannwhitney_u_statistic,p_value
+eswa,kbs,3465,2323,0.12024867849620688,0.10638246464904264,0.1109728887677192,0.0983361452817916,4419295.0,2.389218843205594e-10
